@@ -1,4 +1,4 @@
-KSP-The-Junkyard-Years
+KSP:The Junkyard Years
 ======================
 (A Mod for KSP) 
 
