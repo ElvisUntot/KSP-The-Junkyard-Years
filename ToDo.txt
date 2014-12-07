@@ -1,0 +1,7 @@
+In no order:
+
+create a few batch files that rename the old GameData folder, create a new one and then copy all the files 
+
+find new parts to include (do *you* have any idea, if so, tell me)
+
+original parts (i do not think i have the time/money/knowledge to do that anytime soon) 
