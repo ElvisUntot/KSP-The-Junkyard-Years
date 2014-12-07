@@ -1,0 +1,23 @@
+go to your KSP folder
+
+rename your "GameDate" folder in something else
+
+create a new "GameData" folder
+
+create a "Squad" folder there
+
+copy everything from your old "Squad" folder into the new one, everything but "Parts" and  "SPP"
+
+create a "Parts" folder in your "Squad" folder
+
+copy "externalCommandSeat", "mk1LanderCan", "probeCoreCube" from the "Command" folder
+
+copy "liquidEngine24-77", "liquidEngineLV-1", "solidBoosterSep", from the "Engine" folder
+
+copy "fuelTankOscarB", "fuelTankToroidal" from the FuelTank folder
+
+copy "structuralIBeam200", "structuralIBeam200Pocket", "structuralIBeam650", "structuralMicronode", "structuralPanel1x1", "structuralPanel2x2", "structuralPylon", "strutConnector", "strutCubicOcto", "strutOcto", "trussGirderAdapter", "trussGirderL", "trussGirderXL" from the "Structural" folder
+
+copy "decouplerRadialTT-38K", "fuelLine", "ladderRadial", "landingLegLT-5" from the "Utility" folder
+
+That is it for now.
