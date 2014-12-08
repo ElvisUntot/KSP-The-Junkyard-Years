@@ -5,3 +5,6 @@ create a few batch files that rename the old GameData folder, create a new one a
 find new parts to include (do *you* have any idea, if so, tell me)
 
 original parts (i do not think i have the time/money/knowledge to do that anytime soon) 
+
+
+In the moment, i am pondering what parachute i will include, if any at all.
